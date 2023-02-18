@@ -1,0 +1,34 @@
+{
+  "bandori": {
+    "pullRate": {
+      "_SPECIAL": 2,
+      "_4STARS": 20,
+      "_3STARS": 100,
+      "_2STARS": 300
+    },
+    "pullCost": 500,
+    "refund": 150
+  },
+  "daily": {
+    "min": 300,
+    "max": 1000
+  },
+  "work": {
+    "min": 200,
+    "max": 1000,
+    "delay": [
+      1800000,
+      3600000,
+      10800000,
+      7200000,
+      21600000
+    ]
+  },
+  "sicbo": {
+    "minbet": 50
+  },
+  "send": {
+    "minAmount": 100,
+    "fee": 0.05
+  }
+}
